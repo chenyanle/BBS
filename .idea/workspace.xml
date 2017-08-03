@@ -7,42 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea9124d2-1e83-495b-bdf0-5577fef974e1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/artifacts/BBS_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/artifacts/BBS_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_35.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/libraries/Maven__org_springframework_spring_aop_4_3_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/libraries/Maven__org_springframework_spring_beans_4_3_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/libraries/Maven__org_springframework_spring_context_4_3_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/libraries/Maven__org_springframework_spring_core_4_3_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/libraries/Maven__org_springframework_spring_expression_4_3_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/libraries/Maven__org_springframework_spring_web_4_3_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/BBS.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/src/main/java/com/hhuc/controller/HomeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/src/main/java/com/hhuc/controller/LoginController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/src/main/resources/spring-mvc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/src/main/webapp/WEB-INF/views/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/src/main/webapp/WEB-INF/views/login/doLogin.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/src/main/webapp/WEB-INF/views/login/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BBS/src/main/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BBS/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../BBS/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../BBS/out/" />
     <ignored path="$PROJECT_DIR$/../BBS/target/" />
@@ -429,12 +394,20 @@
       <option name="presentableId" value="Default" />
       <updated>1501745237338</updated>
       <workItem from="1501745241870" duration="2967000" />
-      <workItem from="1501748603661" duration="760000" />
+      <workItem from="1501748603661" duration="1447000" />
     </task>
+    <task id="LOCAL-00001" summary="新建spring-mvc项目">
+      <created>1501749398479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1501749398479</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3727000" />
+    <option name="totallyTimeSpent" value="4414000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
