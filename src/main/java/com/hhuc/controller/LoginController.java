@@ -11,4 +11,8 @@ public class LoginController {
     public String index(){
         return "login/index";
     }
+    @RequestMapping("/doLogin")
+    public String doLogin(){
+        return  "login/doLogin";
+    }
 }
